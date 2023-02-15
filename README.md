@@ -1,4 +1,5 @@
 # ***Docker Bible***
+![Screenshot](docker.png)
 ## Comandos básicos
 Ejecutar un contenedor:
 ```bash
