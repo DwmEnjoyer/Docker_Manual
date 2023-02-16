@@ -1,4 +1,4 @@
-![Screenshot](docker2.png)
+![Screenshot](docker.svg)
 # ***Docker Bible***
 ## Docker para nodos individuales
 ### Contenedores
