@@ -1,5 +1,5 @@
 ![Screenshot](docker.svg)
-# ***Docker Bible***
+# ***Docker Manual***
 ## Docker para nodos individuales
 ### Contenedores
 Ejecutar un contenedor:
